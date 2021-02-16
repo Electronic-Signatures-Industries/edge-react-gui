@@ -766,7 +766,10 @@ const strings = {
   wallet_list_sort_currencyCode: 'Sort by currency code',
   wallet_list_sort_currencyName: 'Sort by currency name',
   wallet_list_sort_highest: 'Sort by highest value',
-  wallet_list_sort_lowest: 'Sort by lowest value'
+  wallet_list_sort_lowest: 'Sort by lowest value',
+
+  // Request Scene
+  request_balance: 'You have %s'
 }
 
 // export default strings
